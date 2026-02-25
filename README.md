@@ -67,6 +67,14 @@ npm install -g @qwen-code/qwen-code@latest
 brew install qwen-code
 ```
 
+#### Alternative: Install from Fork
+
+To install this fork with additional features:
+
+```bash
+npm install -g @aattwwss/qwen-code
+```
+
 ## Quick Start
 
 ```bash

@@ -1,5 +1,5 @@
 {
-  "name": "@qwen-code/qwen-code",
+  "name": "@aattwwss/qwen-code",
   "version": "0.10.5",
   "description": "Qwen Code",
   "repository": {
@@ -40,7 +40,7 @@
     "@google/genai": "1.30.0",
     "@iarna/toml": "^2.2.5",
     "@modelcontextprotocol/sdk": "^1.25.1",
-    "@qwen-code/qwen-code-core": "file:../core",
+    "@aattwwss/qwen-code-core": "file:../core",
     "@types/update-notifier": "^6.0.8",
     "ansi-regex": "^6.2.2",
     "command-exists": "^1.2.9",
