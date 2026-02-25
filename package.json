@@ -1,6 +1,6 @@
 {
-  "name": "@qwen-code/qwen-code",
-  "version": "0.10.5",
+  "name": "@aattwwss/qwen-code",
+  "version": "0.10.5-fork.1",
   "engines": {
     "node": ">=20.0.0"
   },
